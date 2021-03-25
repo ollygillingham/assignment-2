@@ -1,0 +1,179 @@
+body{
+    margin-left: auto;
+    margin-right: auto;
+	background-color: rgb(199, 199, 199);
+}
+.container{
+    width: 100%;
+    height: 1000px;
+	position: static;
+    float: left;
+    border: none;
+}
+.header{
+    width: 100%;
+    background-color:rgb(172, 172, 172);
+    float: left;
+ } 
+.header  h1{
+	color: black;
+	font-family: Rockwell;
+	text-align: center;
+
+}
+.contentl{
+    width: 100%;
+	height: 8.5%;
+    background-color:rgba(63, 63, 63, 0.651);
+    float:right
+    ;
+ } 
+ .contentr{
+    width: 60%;
+	height: 196.3%;
+    background-color:rgb(136, 136, 136);
+    float: left;
+ } 
+ .contentm{
+    width: 18%;
+	height: 200%;
+    background-color:rgb(199, 199, 199);
+    float: left;
+ } 
+ .contentz{
+    width: 19%;
+	height: 200%;
+    background-color:rgb(199, 199, 199);
+    float: left;
+ } 
+ .footer{
+    width: 100%;
+	height: 16%;
+    background-color:rgb(172, 172, 172);
+    float: left;
+    padding: 25px;
+ } 
+ .footer2{
+    width: 95.5%;
+	height: 16%;
+    background-color:rgb(172, 172, 172);
+    float: left;
+    padding: 25px;
+ } 
+.banner{
+    width: 100%;
+    height: 30%;
+    background-color:rgb(255, 255, 255);
+    float: left;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(206, 206, 206);
+}
+li {
+    float: left;
+}
+li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 25px 109px;
+    text-decoration: none;
+    background: none;
+    font-size: xx-large;
+}
+li a:hover {
+    background-color: rgb(156, 156, 156);
+}
+
+.img1  {
+    float: left;
+    padding: 10px;
+}
+
+.title {
+    font-size: 500%;
+}
+
+.taskbarfont{
+    font-size: 200%;
+}
+.description{
+    font-size: 400%;
+    text-align: center;
+    text-decoration: underline;
+}
+.description1{
+    font-size: 300%;
+    text-align: center;
+    margin: 125px;
+}
+.logo2{
+    float: right;
+    align-items:initial;
+}
+
+.pic1 {
+    width: 202px;
+    display: block;
+    margin-left: 35%;
+    padding: 15px;
+}
+
+.profiletext{
+    font-size: 35px;
+    text-align: center;
+    margin: 100px;
+}
+
+
+.homepic{
+    padding-left: 20px; 
+}
+
+.careertitle{
+    font-size: 175%;
+    margin: 50px;
+}
+
+.careertext{
+    font-size: 150%;
+    margin: 50px;
+}
+
+.careerapply{
+    font-size: 175%;
+    margin: 50px;
+    border-style:solid;
+    border-color:#287EC7;
+    text-align: center;
+}
+
+.form {
+    min-width: 22%;
+    height: 80%;
+    top:10%;
+    right:0%;
+    z-index:10;
+	font-size: 75px;
+	padding; 100px;
+}
+
+.form input {
+	width: 25rem;
+	height: 4rem;
+	vertical-align; auto;
+    padding: 2rem;
+}
+
+.contentr img {
+    padding: 0px;
+}
+
+.courcetext{
+    font-size: 30px;
+    
+}
